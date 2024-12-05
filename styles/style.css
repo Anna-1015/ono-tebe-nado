@@ -250,6 +250,10 @@
     text-decoration: none;
 }
 
+.footer__menu-link_active {
+    border-bottom: none;
+}
+
 .footer__social-list {
     display: flex;
     justify-self: end;
